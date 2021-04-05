@@ -46,7 +46,7 @@ Some food I like to eat:
 - Pizza
 - My mom's cooking
 
-![ramen](https://content.hy-vee.com/remote.axd/3f4c2184e060ce99111b-f8c0985c8cb63a71df5cb7fd729edcab.ssl.cf2.rackcdn.com/media/15684/ramenbowls.jpg?v=1&mode=crop&width=800&height=640&upscale=false)
+![Ramen](https://content.hy-vee.com/remote.axd/3f4c2184e060ce99111b-f8c0985c8cb63a71df5cb7fd729edcab.ssl.cf2.rackcdn.com/media/15684/ramenbowls.jpg?v=1&mode=crop&width=800&height=640&upscale=false)
 
 ## **Daily Schedule**
 
