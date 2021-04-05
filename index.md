@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-**Hello!** My name is ***Aaron Chao***, and I'm currently a third year *Computer Science* transfer from Irvine, California. I was born and raised in Chicago, Illinois for 2 years, then moved to California where I have stayed ever since. At home I have a beagle named ***Cody*** and my family loves him very much, no matter how much he howls for food.
+**Hello!** My name is ***Aaron Chao***, and I'm currently a third year *Computer Science* transfer from Irvine, California. I was born and raised in Chicago, Illinois for 2 years, then moved to California where I have stayed ever since. At home I have a beagle named ***Cody*** and my family loves him very much, no matter how much he howls and begs for food. When I have time I like to play some tennis or videogames with friends. I'm not too sure what field I want to go into yet for computer science but I'm hoping to get a better understanding of software engineering as a whole with this class!
 
 To check out hobbies:
 [to hobbies](#hobbies)
@@ -30,6 +30,8 @@ ultimate frisbee
 I like to listen to dance pop and EDM music on [Spotify](spotify.com).
 
 I also enjoy heading to [Youtube](youtube.com) and watching videos related to games, movies, or educational content.
+
+[More beagle content!](beagle.md)
 
 Top places I want to visit/travel:
 1. Hong Kong
