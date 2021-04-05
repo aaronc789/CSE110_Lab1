@@ -25,9 +25,9 @@ table tennis
 ultimate frisbee
 ```
 
-I like to listen to dance pop and EDM music on [Spotify](spotify.com/us/).
+I like to listen to dance pop and EDM music on [Spotify](https://spotify.com).
 
-I also enjoy heading to [Youtube](youtube.com) and watching videos related to games, movies, or educational content.
+I also enjoy heading to [Youtube](https://youtube.com) and watching videos related to games, movies, or educational content.
 
 [More beagle content!](beagle.md)
 
