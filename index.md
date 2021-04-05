@@ -13,8 +13,6 @@ To check out my daily schedule:
 As our little beagle magnet on the front door says:
 > Life's better with a Beagle
 
-![beagle](https://www.fleetfarm.com/images/product/0000000245178/l/1.jpg)
-
 ## **Hobbies**
 
 In my spare time I love to play all kinds of `sports`, which include:
